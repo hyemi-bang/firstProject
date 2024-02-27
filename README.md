@@ -32,4 +32,5 @@
 <a>https://www.miricanvas.com/v/12qydtf</a>
 
 <hr>
-프로젝트 관련 DB내용[[Commit]](https://github.com/hyemi-bang/RDBS/tree/7529cbc44b3d407812d683d4eaa4c65784e5cfd7/JSP/FirstProject)
+프로젝트 관련 DB내용 [[Commit]]
+(https://github.com/hyemi-bang/RDBS/tree/7529cbc44b3d407812d683d4eaa4c65784e5cfd7/JSP/FirstProject)
