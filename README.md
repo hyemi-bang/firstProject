@@ -1,10 +1,15 @@
-<h2>3팀, 1차 팀프로젝트</h2>
-<br>
+<h2>3팀, 1차 팀프로젝트 ## 배스킨라빈스 키오스크##  </h2>
 
-<h3>배스킨라빈스 키오스크</h3>
-#[URL](https://github.com/tjektmf/Project-KIOSK)
 
-<br>
+## [[URL]](https://github.com/tjektmf/Project-KIOSK)<br>
+
+
+## [[프로젝트 프레젠테이션]](https://www.miricanvas.com/v/12qydtf)<br>
+
+
+## [[DB내용]](https://github.com/hyemi-bang/RDBS/tree/7529cbc44b3d407812d683d4eaa4c65784e5cfd7/JSP/FirstProject)<br>
+
+
 <h3> <b>프로젝트 목적</b> </h6>
 
 <ul>
@@ -14,8 +19,6 @@
   <li>관리자가 제품 메뉴를 쉽게 추가하고 업데이트하며 재고를 효과적으로 관리</li>
 </ul>
 
-<br>
-
 <h3> <b>사용 방법</b></h3>
 <ol>
   <li>src/database/JdbcConnection.java에서 데이터가 저장되어 있는 DB정보를 입력</li>
@@ -24,10 +27,3 @@
 </ol>
 
 <br>
-
-<h3>프로젝트 프레젠테이션</h3>
-## [발표 PPT](https://www.miricanvas.com/v/12qydtf) <br>
-<br>
-<hr>
-## [DB내용](https://github.com/hyemi-bang/RDBS/tree/7529cbc44b3d407812d683d4eaa4c65784e5cfd7/JSP/FirstProject)
-
