@@ -2,11 +2,10 @@
 <br>
 
 <h3>배스킨라빈스 키오스크</h3>
-<h3>주소 : https://github.com/tjektmf/Project-KIOSK </h3>
+#[URL](https://github.com/tjektmf/Project-KIOSK)
 
 <br>
 <h3> <b>프로젝트 목적</b> </h6>
-
 
 <ul>
   <li>사용자가 편리하게 주문할 수 있는 그래픽 사용자 인터페이스(GUI)를 개발</li>
@@ -26,9 +25,9 @@
 
 <br>
 
-
 <h3>프로젝트 프레젠테이션</h3>
-# [ppt](https://www.miricanvas.com/v/12qydtf)
+## [발표 PPT](https://www.miricanvas.com/v/12qydtf) <br>
 <br>
 <hr>
-> * 프로젝트 관련 DB내용 [[Commit]](https://github.com/hyemi-bang/RDBS/tree/7529cbc44b3d407812d683d4eaa4c65784e5cfd7/JSP/FirstProject)
+## [DB내용](https://github.com/hyemi-bang/RDBS/tree/7529cbc44b3d407812d683d4eaa4c65784e5cfd7/JSP/FirstProject)
+
