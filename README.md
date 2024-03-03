@@ -28,8 +28,7 @@
 
 
 <h3>프로젝트 프레젠테이션</h3>
-# [PPT](https://www.miricanvas.com/v/12qydtf) 
-<a>https://www.miricanvas.com/v/12qydtf</a>
-
+# [ppt](https://www.miricanvas.com/v/12qydtf)
+<br>
 <hr>
 > * 프로젝트 관련 DB내용 [[Commit]](https://github.com/hyemi-bang/RDBS/tree/7529cbc44b3d407812d683d4eaa4c65784e5cfd7/JSP/FirstProject)
